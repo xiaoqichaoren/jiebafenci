@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="实训" uuid="224c4131-5c02-47af-af71-e13cd5a53c41">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\YY\Desktop\大三实训\db版\database\实训.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="实训 [2]" uuid="25673338-181e-4234-95a2-5006033c0480">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\yuyan\Desktop\Demo\db版\database\实训.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
